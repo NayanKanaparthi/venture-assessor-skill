@@ -1,0 +1,57 @@
+COMPETITOR MAPPING FRAMEWORK
+
+Purpose
+Map the real competitive landscape, including the status quo.
+
+Always analyze five layers
+1. Do nothing
+   - the customer tolerates the pain
+2. Manual workaround
+   - spreadsheets, email, consultants, handoffs, internal admin
+3. Adjacent substitute
+   - a tool not built for this exact use case but used anyway
+4. Direct competitor
+   - a startup or vendor explicitly solving this problem
+5. Incumbent bundle or platform
+   - large software suite, existing provider, internal system, or major platform
+
+For each alternative, capture:
+- company / method / tool
+- target user or buyer
+- job solved
+- why customers choose it
+- strengths
+- weaknesses
+- pricing model if known
+- switching friction
+- gaps or wedge opportunity
+
+Questions to answer
+- What is the default solution today?
+- Why does the market still accept it?
+- What pain remains unsolved?
+- Is the market crowded or merely noisy?
+- What kind of wedge could realistically get adoption?
+
+White-space tests
+A founder may still have room if:
+- the current solutions are hated or tolerated rather than loved
+- the existing tools create heavy workflow friction
+- the buyer and end user are poorly served by incumbents
+- the market has changed faster than incumbents have adapted
+- there is a narrow buyer or use case incumbents underserve
+
+Crowding tests
+Be more skeptical when:
+- many funded startups already cluster around the same pitch
+- incumbents have already closed obvious gaps
+- switching friction is high and pain urgency is low
+- the founder's wedge is “better UX” only
+- the idea is easy to copy and hard to distribute
+
+Output rule
+Never output a generic competitor list. The analysis must show:
+- status quo
+- switching friction
+- wedge opportunity
+- why the market is still open, if it is

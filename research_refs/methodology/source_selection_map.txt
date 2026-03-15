@@ -1,0 +1,49 @@
+SOURCE SELECTION MAP
+
+Purpose
+Choose which local methodology sources are core, selective, or excluded for a founder-grade venture assessment.
+
+CORE SOURCES
+Use these as the main methodological spine:
+1. Customer segmentation
+   - Focus on the end user and the paying customer.
+   - Use broad brainstorming first, then narrowing and focus.
+   - Keep “startup is a business, not an app” as a core constraint.
+2. Beachhead market and BHM TAM
+   - Force one focused initial market.
+   - Use the BHM scoring logic and a bottoms-up BHM TAM.
+3. Pain points and quantified value proposition
+   - Classify pains rigorously.
+   - Quantify value as improvement over the current state.
+4. PMR + inquiry mode + MVBP
+   - Start in inquiry mode.
+   - Move from questions to tests to meaningful signals.
+   - Prefer quick validation of value, payment, and feedback over polished product theater.
+
+SELECTIVE SOURCES
+Use these when helpful, but not as the primary spine:
+1. Business model design material
+   - Helpful after the beachhead and pain logic are credible.
+2. LTV / CoCA material
+   - Useful for later-stage economic attractiveness, not first-pass idea validation.
+3. Innovation philosophy or “problem worth solving” content
+   - Useful for mindset and problem rigor, but subordinate to the operational workflow.
+4. Case studies
+   - Useful as pattern examples, not as the main logic.
+
+EXCLUDED OR LOW-PRIORITY SOURCES
+Use only if the user explicitly asks:
+1. Leadership material
+   - Not part of the core venture assessment workflow.
+2. Generic startup inspiration stories
+   - Do not substitute them for evidence or research.
+3. Any source that encourages top-down TAM theater or broad-market hype.
+
+WHEN IN DOUBT
+Default to:
+segmentation -> beachhead -> BHM TAM -> PMR / validation -> GTM hypothesis -> verdict
+
+What to avoid
+- letting business-model speculation dominate before problem clarity
+- letting “innovation” language bypass evidence
+- relying on case-study analogies as proof

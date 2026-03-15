@@ -1,0 +1,59 @@
+DECISION RUBRIC
+
+Purpose
+Turn research into a clear founder recommendation.
+
+Allowed verdicts
+1. Strong Pursue
+   - clear pain
+   - promising beachhead
+   - credible wedge
+   - evidence above assumption level
+2. Pursue Narrowly
+   - promising only in a specific segment or use case
+   - broad version is too diffuse
+3. Needs PMR Before Build
+   - interesting idea, but evidence is too weak to justify product build
+4. Pivot the Problem / Segment
+   - current framing is weak, but adjacent direction looks better
+5. Pause
+   - too many major unknowns, poor accessibility, or no compelling wedge yet
+6. Kill
+   - weak pain, weak differentiation, weak evidence, or structurally poor entry conditions
+
+Confidence scale
+Use these labels by cross-referencing this rubric with `research_refs/methodology/evidence_scoring_rubric.txt`.
+
+- High confidence
+  Use only when the core recommendation is supported by strong source quality and at least Tier 3 evidence on the most important assumptions. Use Tier 4 when claims about willingness to pay, revenue, or commercial traction are central.
+- Medium confidence
+  Use when the analysis has solid source quality and at least some Tier 2 or Tier 3 support, but one or more critical assumptions still lack direct confirmation.
+- Low confidence
+  Use when the thesis is still mostly Tier 0 to Tier 1, when evidence is contradictory, when source quality is weak, or when tool limitations materially reduce confidence.
+
+Always explain confidence using:
+- strongest evidence tier
+- evidence quality
+- source quality
+- number of critical unknowns
+- tool limitations
+
+Required closing format
+Every final report should end with:
+- Verdict
+- Confidence
+- Why this verdict was reached
+- Biggest unknowns
+- Fastest next experiments
+- Kill criteria
+
+Kill criteria examples
+- no repeated pain in PMR
+- no willingness to pay signal after a defined number of conversations
+- switching friction much higher than expected
+- no reachable beachhead
+- competitor wedge disappears under scrutiny
+
+Important
+This rubric is for founder decision support, not absolute truth.
+The skill should never imply that desk research alone “proves” startup worthiness.

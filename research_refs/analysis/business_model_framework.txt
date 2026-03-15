@@ -1,0 +1,50 @@
+BUSINESS MODEL FRAMEWORK
+
+Purpose
+Suggest business model options only after the pain, beachhead, and value logic are credible.
+
+Business model principles
+- Do not start here.
+- Revenue logic follows customer pain and delivery reality.
+- A beautiful business model does not rescue a weak problem.
+
+Evaluate candidate models through:
+1. Buyer fit
+   Who actually pays?
+2. Delivery fit
+   Can the founder deliver this way at the current stage?
+3. Time-to-revenue
+   How fast can the founder learn from money?
+4. Margin logic
+   Is the model viable after manual effort, service load, or acquisition cost?
+5. Expansion logic
+   Does the model support adjacent growth later?
+
+Common early-stage models
+- direct SaaS subscription
+- seat-based or usage-based software
+- managed-service / hybrid software + service
+- paid pilot / implementation fee
+- transaction fee / take rate
+- marketplace commission
+- premium support or onboarding
+- channel-led resale / integration revenue
+
+Use with caution
+- ad-supported models
+- freemium without a credible conversion path
+- marketplace models without solving the hard-side acquisition first
+- two-sided models without segmenting each side separately
+
+LTV / CoCA reminder
+Use LTV / CoCA logic only as a later-stage attractiveness check unless the user explicitly asks.
+At the idea-evaluation stage, focus more on:
+- ability to get early revenue
+- ability to learn quickly
+- proof that a customer will pay at all
+
+Output rule
+When suggesting business model options:
+- give 2 to 4 plausible models
+- explain why each fits or does not fit the chosen beachhead
+- recommend one primary model and one fallback

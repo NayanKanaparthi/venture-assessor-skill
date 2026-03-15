@@ -1,0 +1,48 @@
+PROBLEM FRAMING RULES
+
+Purpose
+Turn vague startup ideas into precise, testable problem statements.
+
+Base formula
+Use this structure when possible:
+
+[Customer type] who [characteristic] and [characteristic], feel [emotion or pain] because [quantifiable or observable impact]. To deal with this, they currently use [current alternative], despite [alternative shortcomings].
+
+What a good problem statement includes
+- a clear customer type
+- a real context or workflow
+- a specific pain or frustration
+- an observable or measurable consequence
+- a current workaround
+- a reason the workaround is inadequate
+
+What a good problem statement does NOT do
+- describe the product instead of the problem
+- assume the founder’s proposed solution is correct
+- use generic language like “inefficiency” without specifics
+- confuse an industry trend with a user pain
+- hide the current workaround
+
+Recognition tests
+A well-framed problem should be:
+1. Recognizable
+   A real user should say “yes, that is my problem.”
+2. Verifiable
+   The claim can be probed through PMR or observed behavior.
+3. Actionable
+   The founder can design a test or wedge around it.
+4. Narrow enough
+   It refers to a distinct user context, not “everyone.”
+
+When the input is a solution, not a problem
+Translate:
+- product concept -> user problem hypothesis
+- feature claim -> workflow problem
+- “AI for X” -> pain, decision, or cost currently handled badly
+
+For multi-sided markets
+- Frame the problem separately for each side.
+- Do not merge buyer and user pain unless they truly overlap.
+
+Output rule
+When ambiguity remains high, generate 3 to 5 problem-framing variations and show the tradeoff in each.

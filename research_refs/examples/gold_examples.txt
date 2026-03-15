@@ -1,0 +1,12 @@
+GOLD EXAMPLES
+
+Purpose
+Store reusable analytical patterns, not full founder-specific outputs.
+
+Entry format
+- Date:
+- What worked:
+- Why it worked:
+- Reusable rule or pattern:
+
+No entries yet.

@@ -1,0 +1,40 @@
+BHM TAM RULES
+
+Purpose
+Estimate the total addressable market for the chosen beachhead market first.
+
+Primary formula
+BHM TAM = number of end customers in the chosen beachhead × average annual revenue per customer to solve the problem
+
+Mandatory rules
+- Start with the beachhead only.
+- Prefer bottoms-up estimation.
+- Show assumptions clearly.
+- Use top-down only as a secondary sanity check.
+- Distinguish customer count from revenue logic.
+
+Estimation steps
+1. Define the beachhead precisely.
+2. Estimate the number of end customers in that beachhead.
+3. Estimate how much one customer spends in one year to solve the problem.
+4. Multiply the two numbers.
+5. Sanity-check the result.
+
+Acceptable inputs
+- demographic or firmographic counts
+- specific user populations
+- public pricing pages
+- proxy spend on current alternatives
+- explicit founder assumptions labeled as such
+
+Red flags
+- starting from a giant market and shrinking by an arbitrary capture rate
+- mixing global TAM language with a local beachhead thesis
+- counting every possible user when only a subset can buy
+- using revenue assumptions unrelated to current customer behavior
+- forgetting to define annual spend
+
+Confidence guidance
+- high confidence: multiple grounded assumptions and market proxies
+- medium confidence: one or two assumptions still weak
+- low confidence: customer count or annual spend mostly speculative

@@ -1,0 +1,44 @@
+BEACHHEAD SELECTION RULES
+
+Purpose
+Select one narrow, winnable first market rather than staying broad.
+
+Primary scoring questions
+Score each candidate segment from 1 to 5 on:
+1. Funding
+   Is the target customer funded well enough to buy?
+2. Accessibility
+   Can the founder reach and learn from this segment directly?
+3. Compelling reason to buy
+   Is the pain urgent enough that the segment would act?
+4. Whole product feasibility
+   Can the founder deliver a usable solution soon enough?
+5. Competition
+   Are existing alternatives weak enough to leave an opening?
+6. Leverage
+   If this segment is won, does it create entry into adjacent segments?
+7. Team fit
+   Is the segment aligned with founder strengths, motivation, and context?
+
+Three coherence tests
+A true beachhead should satisfy these conditions:
+1. Similar products
+   Customers buy similar categories of solutions.
+2. Similar sales cycle
+   Customers evaluate and buy in similar ways.
+3. Word of mouth
+   Customers can influence one another through networks, communities, or credibility channels.
+
+Selection rules
+- Recommend one primary beachhead whenever enough information exists.
+- Avoid “all SMBs,” “all students,” “all enterprises,” and similar broad buckets.
+- A smaller segment with urgency and accessibility can beat a larger but diffuse segment.
+- If the segment does not talk to itself, WOM is weaker and acquisition cost may be higher.
+- Winning a beachhead is about focus, not about picking the biggest possible market.
+
+Output requirements
+For the chosen beachhead, always state:
+- why it won
+- why other candidates lost
+- what assumptions could change the choice
+- how this beachhead could expand into adjacent markets

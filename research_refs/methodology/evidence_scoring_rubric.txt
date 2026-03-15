@@ -1,0 +1,82 @@
+EVIDENCE SCORING RUBRIC
+
+Purpose
+Prevent the skill from presenting assumptions as validation.
+
+Evidence tiers
+
+Tier 0: Founder assumption
+Definition:
+- an untested belief or intuition
+Examples:
+- “I think busy teams would pay for this.”
+Use:
+- acceptable as a starting point only
+Action:
+- must be labeled as an assumption
+
+Tier 1: Weak market signal
+Definition:
+- broad trend, third-party report, industry narrative, or generic search result
+Examples:
+- “the market is growing”
+- “AI adoption is increasing”
+Use:
+- useful for context, not validation
+Action:
+- never treat as demand proof
+
+Tier 2: Behavioral proxy
+Definition:
+- observable evidence of current pain or workaround behavior
+Examples:
+- review complaints
+- repeated forum discussions
+- manual workarounds
+- job postings for the problem
+Use:
+- useful for identifying pain and urgency
+Action:
+- still not proof of payment
+
+Tier 3: Direct customer evidence
+Definition:
+- primary market research, interviews, observed workflow, explicit customer statements
+Examples:
+- repeated PMR themes
+- a customer describing current cost or frustration
+Use:
+- strong for problem validation
+Action:
+- still separate stated intent from actual purchase behavior
+
+Tier 4: Economic evidence
+Definition:
+- customers paying or committing real money, or a close proxy
+Examples:
+- paid pilot
+- deposit
+- signed LOI with meaningful commitment
+- successful saleable concierge
+Use:
+- strongest early evidence
+Action:
+- treat as major validation
+
+Scoring rules
+- Every major conclusion should cite its strongest evidence tier.
+- If the strongest support is Tier 0 or Tier 1, confidence must stay low.
+- A “pursue” verdict without at least some Tier 2 or Tier 3 support should be cautious.
+- Claims about willingness to pay require Tier 3 or Tier 4 evidence, or clear labeling as a hypothesis.
+
+Output requirement
+Always include:
+- strongest evidence tier
+- weakest link
+- what evidence is still missing
+
+Decision-link rule
+When the skill assigns a verdict, map evidence tiers to the confidence labels in `research_refs/analysis/decision_rubric.txt`:
+- High confidence generally requires Tier 3 support on key assumptions, and Tier 4 when payment behavior is central.
+- Medium confidence fits cases with meaningful Tier 2 or Tier 3 support but still-important unknowns.
+- Low confidence is required when the thesis is still mostly Tier 0 to Tier 1, when evidence conflicts, or when fresh verification is missing.

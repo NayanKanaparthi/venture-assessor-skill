@@ -1,0 +1,68 @@
+PAIN POINT TAXONOMY
+
+Purpose
+Classify pain rigorously so the analysis stays tied to real user problems.
+
+Core pain types
+1. Tangible pain
+   - physical or concrete difficulty
+   - storage, access, safety, manual burden, spatial issues
+2. Economic pain
+   - excessive cost
+   - hidden fees
+   - waste
+   - low ROI
+   - switching cost
+3. Emotional pain
+   - fear
+   - stress
+   - frustration
+   - anxiety
+   - low trust
+   - disappointment
+4. Logistical / operational pain
+   - too many steps
+   - fragmented workflow
+   - delayed coordination
+   - compatibility issues
+   - fulfillment problems
+   - information friction
+
+What makes a strong pain point
+A good pain point is:
+- real
+- painful
+- repeated
+- relevant to the target segment
+- connected to current behavior
+
+Ranking dimensions
+Score or assess pain using:
+- severity
+- frequency
+- urgency
+- cost
+- emotional weight
+- operational drag
+- current workaround weakness
+
+Current-state check
+Always ask:
+- what do users do today?
+- why is that good enough for now?
+- why does it still fail them?
+
+Quantifying value
+Value = improvement over the current state
+Look for:
+- time saved
+- money saved
+- risk reduced
+- stress removed
+- output increased
+- completion rate improved
+- trust or confidence increased
+
+Important
+Interesting pain is not always economic pain.
+Emotional and workflow pain can be highly monetizable if they drive costly current behavior.

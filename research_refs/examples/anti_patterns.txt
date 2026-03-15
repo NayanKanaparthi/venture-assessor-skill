@@ -1,0 +1,32 @@
+ANTI-PATTERNS
+
+1. Giant market delusion
+   “This is a trillion-dollar market, so we only need a tiny slice.”
+   Why bad: avoids segment focus and says nothing about entry.
+
+2. Solution-first framing
+   “AI copilot for X” without a defined user pain, workflow, or current workaround.
+
+3. Competitor list theater
+   Listing logos without explaining status quo, switching friction, or wedge.
+
+4. Generic GTM advice
+   Suggesting SEO, ads, or social media without linking to the chosen beachhead.
+
+5. Fake willingness to pay
+   Treating positive interview reactions as payment evidence.
+
+6. Broad beachhead
+   “SMBs,” “students,” or “healthcare providers” as if they were one coherent first market.
+
+7. Weak-evidence verdicts
+   Making a strong “pursue” recommendation based only on market growth narratives.
+
+8. TAM inflation
+   Using top-down TAM numbers disconnected from the actual entry segment.
+
+9. Hidden unknowns
+   Presenting a confident recommendation without stating what is still missing.
+
+10. Optional-tool dependency
+   Quietly assuming access to CRM, spreadsheets, or private datasets that are not actually available.

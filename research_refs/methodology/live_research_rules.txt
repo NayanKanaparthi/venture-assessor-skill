@@ -1,0 +1,58 @@
+LIVE RESEARCH RULES
+
+Purpose
+Use live research for time-sensitive claims and current market reality.
+
+Use live research for:
+- current competitors
+- product pricing
+- recent launches and feature movement
+- funding signals
+- adoption trends
+- regulations, policy, or legal constraints
+- technology maturity
+- macro shifts relevant to the idea
+- customer communities, forums, and public pain signals
+
+Source priorities
+1. Primary or official sources first
+   - company websites
+   - pricing pages
+   - product docs
+   - government or regulator sources
+   - earnings calls or investor materials when relevant
+2. Strong secondary sources
+   - reputable industry publications
+   - analyst summaries used cautiously
+   - trustworthy market reports when accessible
+3. Public discourse and customer signal sources
+   - communities
+   - founder interviews
+   - public reviews
+   - Reddit, app reviews, G2, Capterra, social discussions
+4. Lowest priority
+   - content farms
+   - generic AI-written summaries
+   - low-trust SEO pages
+
+What to collect
+For each live-research pass, try to capture:
+- what the market currently looks like
+- who the main players are
+- what users do today
+- what users complain about
+- what they pay
+- what switching friction exists
+- what changed recently
+
+Research behavior rules
+- Verify current claims before stating them as facts.
+- Prefer current pages over old summaries.
+- Use multiple sources when a claim is likely to shape the founder's decision.
+- Distinguish anecdotal signal from broad evidence.
+- If a claim is stale, weak, or contradictory, say so.
+
+If live research is unavailable
+- say that current-state analysis is incomplete
+- do not pretend freshness exists
+- lower confidence on competitor and market claims

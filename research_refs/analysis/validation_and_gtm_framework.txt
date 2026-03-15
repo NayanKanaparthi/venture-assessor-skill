@@ -1,0 +1,64 @@
+VALIDATION AND GTM FRAMEWORK
+
+Purpose
+Translate research into concrete next steps for learning and initial customer acquisition.
+
+Validation ladder
+1. Inquiry
+   - ask for reality, not validation
+   - understand workflow, pain, current alternatives, and consequences
+2. Low-fidelity test
+   - mockup, landing page, concept deck, storyboard, manual demo
+3. Concierge test
+   - simulate the outcome manually
+   - prove value before building full product
+4. Saleable concierge
+   - the product works just enough to solve a real problem
+   - the founder manually fills gaps
+   - money changes hands if possible
+5. Paid pilot / early deployment
+   - limited but real implementation
+   - focus on value, payment, and feedback
+
+Three early proof conditions
+The strongest early validation should show:
+1. Value
+   The customer gets meaningful benefit.
+2. Pays
+   The economic buyer pays something or makes a credible commitment.
+3. Feedback
+   The founder starts a real learning loop with the end user.
+
+PMR design rules
+- ask about current behavior before future intent
+- ask for examples, not abstract opinions
+- prefer “walk me through the last time” over “would you use”
+- seek contradiction, not confirmation
+- document surprises; they often matter most
+
+First 10 customer logic
+A useful GTM hypothesis should answer:
+- who exactly should be targeted first
+- why they would act now
+- how the founder can reach them
+- what proof they need
+- what the first offer is
+- what manual work the founder is willing to do
+
+Three GTM wedge types
+1. Founder-led outbound wedge
+   - direct outreach
+   - narrow ICP
+   - high learning speed
+2. Channel / partner wedge
+   - leverage an existing relationship or workflow owner
+3. Content / community wedge
+   - useful when pain is public, repeated, and community-shaped
+
+Output requirements
+Always produce:
+- the top assumptions to test
+- one interview plan
+- one low-fidelity or concierge test
+- one paid test path if plausible
+- one recommended first-pass GTM path

@@ -1,0 +1,35 @@
+DISCIPLINED ENTREPRENEURSHIP CORE
+
+Core mindset
+- A startup is a business, not an app, a technology, or a product in isolation.
+- The single necessary and sufficient condition for a business is a paying customer.
+- Customer understanding beats founder certainty.
+- Inquiry beats advocacy in the early phase.
+
+Primary operating principles
+1. Focus on the end user
+   Identify the specific end user first. Also identify the economic buyer when different.
+2. Avoid broad-market vanity logic
+   Do not start with “if we capture 0.1% of a huge market.”
+3. Start with segmentation
+   First widen the option space, then narrow it.
+4. Choose one beachhead market
+   Focus creates learning speed, stronger WOM, and a clearer first GTM path.
+5. Use PMR continuously
+   PMR is not a one-time task. It should reshape hypotheses.
+6. Distinguish a business from interest
+   Signups, excitement, or large markets are not proof.
+7. Tie analysis to action
+   Every research output should lead to a validation step or decision.
+
+Implications for this skill
+- Always move from broad to narrow.
+- Always force one primary beachhead when enough information exists.
+- Always connect the venture thesis to customer behavior and payment.
+- Always downgrade confidence when the analysis is secondary-research-heavy.
+- Always ask: what would a paying customer actually do next?
+
+For multi-sided markets
+- Segment each side separately when necessary.
+- Identify which side is most critical or hardest to win first.
+- Do not collapse multiple sides into one generic “user.”
